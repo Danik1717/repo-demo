@@ -1,8 +1,10 @@
 #include <iostream>
 
 int main()
-{
-    cout<<"hello"
+{  
+    int b;
+    std::cout<<"hello";
+    std::cin >> b;
 
     return 0;
 }

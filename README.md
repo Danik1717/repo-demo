@@ -1,1 +1,1 @@
-# repo-demo
+This repository was created only for training crucial commands
